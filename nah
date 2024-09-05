@@ -1,0 +1,91 @@
+!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,
+initial-scale=1.0">
+<title>Página de Ejemplo</title>
+<!-- Vinculamos el archivo CSS -->
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<!-- Encabezado de la página -->
+<header>
+<h2>Bienvenido a Fashion Diseño Textil</h2>
+<p>Personalizacion unica para cada estilo🎨.</p>
+<p>✨¡Haz que cada dia sea especial con nuestras creaciones!✨</p>
+<p>💌DM para pedidos📩</p>
+</header>
+
+<!-- Menú de navegación -->
+<nav>
+
+<ul>
+<li><a href="#home">Inicio</a></li>
+<li><a href="#about">Sobre mí</a></li>
+<li><a href="#portfolio">Portafolio</a></li>
+<li><a href="#contact">Contacto</a></li>
+</ul>
+</nav>
+
+<!-- Contenido principal -->
+<main>
+<section id="home">
+<h3>Inicio</h3>
+<p>En un mundo que se mueve rápido, nuestras tazas personalizadas
+     te permiten detenerte y disfrutar del momento de una manera única.</p>
+     
+    <p> Cada una está diseñada para reflejar tu personalidad, tus intereses o tus recuerdos favoritos, 
+      convirtiéndose en un compañero especial en tus instantes de tranquilidad.</p>
+    
+     <p> Ya sea que estés celebrando un cumpleaños, un aniversario o simplemente quieras agregar un 
+    toque personal a tu rutina diaria, nuestras tazas personalizadas te ofrecen la oportunidad de hacer que
+     cada momento sea inolvidable</p>
+   
+    <p>🎨🎁🎀🛍️🍪 Explora nuestra colección de tazas personalizadas y crea la tuya propia para disfrutar de tus momentos
+     favoritos de una manera aún más especia.</p>
+
+</section>
+
+<section id="about">
+<h3>Sobre Nosotros</h3>
+<p>Somos Naty y Elias, decidimos unirnos para crear algo especial. Nuestra historia comenzó con una idea simple:
+     diseñar tazas personalizadas para momentos especiales✨️. </p>
+   <p> Con mucho esfuerzo y dedicación, hemos logrado crear un pequeño negocio que esperamos crezca con el tiempo.
+     Nos enfocamos en la calidad, la personalización y nos esforzamos por hacer que
+     cada taza sea única con un estilo propio. </p>
+  <p> Agradecemos su apoyo y confianza en nosotros.</p>
+
+</section>
+
+<section id="portfolio">
+<h2>Portafolio</h2>
+
+
+<p>Aquí puedes ver algunos de mis proyectos
+
+recientes.</p>
+</section>
+
+<section id="contact">
+<h2>Contacto</h2>
+<p>Puedes contactarme a través de mi correo electrónico:
+<a href="mailto:ejemplo@correo.com">ejemplo@correo.com</a>.</p>
+
+</section>
+</main>
+
+<!-- Barra lateral -->
+<aside>
+<h3>Noticias Recientes</h3>
+<p>Últimas actualizaciones sobre mis proyectos y
+
+trabajos.</p>
+</aside>
+
+<!-- Pie de página -->
+<footer>
+<p>&copy; 2024 Mi Nombre. Todos los derechos reservados.</p>
+</footer>
+</body>
+</html>
